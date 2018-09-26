@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-)https://dev.azure.com/sathyasams/Calculator/_apis/build/status/hisathya.calculator%20(1))](https://dev.azure.com/sathyasams/Calculator/_build/latest?definitionId=2)
+[![Build Status](https://dev.azure.com/sathyasams/Calculator/_apis/build/status/hisathya.calculator%20(1))](https://dev.azure.com/sathyasams/Calculator/_build/latest?definitionId=2)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
